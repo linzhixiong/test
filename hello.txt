@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+branch2
+
 hiello linzhixiong
 darlinglele@live.com have changed 
 for diff

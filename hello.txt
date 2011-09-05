@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hiello linzhixiong
 darlinglele@live.com have changed 
 for diff
@@ -5,3 +6,9 @@ darlinglele@gmail.com did change
 
 
 sdfsfsdfhkjhk
+=======
+hidarlinglele@gmail.com did changeello linzhixiong
+darlinglele@live.com have changed
+dsdddddsdsdsds 
+idfdfdfdafnalllj
+>>>>>>> 4bf9360629b0da6e81494b5f3ed4e16ccaa5b0b0
